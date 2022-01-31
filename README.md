@@ -4,4 +4,6 @@ This is a small challenge to implement react and redux in order to display a lis
 
 1) Please run npm install to make sure you have installed the dependencies necessary to run the application.
 
-2) Make sure you are inside the frontend folder, and then run npm start to launch the application locally in your browser.
+2) After installing dependencies, navigate to the frontend folder and run npm install once more for frontend depencies.
+
+3) run the command "npm run start" in your terminal to load the application locally.
