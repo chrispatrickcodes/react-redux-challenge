@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-challenge",
+  "version": "1.0.0",
+  "description": "This is a small challenge to implement react and redux in order to display a list of users gathered from an api and a separate component displaying details from these users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrispatrickcodes/react-redux-challenge.git"
+  },
+  "author": "Chris Patrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrispatrickcodes/react-redux-challenge/issues"
+  },
+  "homepage": "https://github.com/chrispatrickcodes/react-redux-challenge#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "axios": "^0.25.0"
+  }
+}
